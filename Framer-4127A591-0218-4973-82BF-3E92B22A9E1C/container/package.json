@@ -1,0 +1,17 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.7.5"
+	},
+	"peerDependencies": {
+		"framer": "^0.7.5",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "2e3efe81-9c10-4da3-8d98-df18a96b48ec"
+	},
+	"author": "Baisampayan Saha"
+}
